@@ -1,1 +1,2 @@
-"my first repo." 
+my example repo.
+I'm lying on a sand beach.
